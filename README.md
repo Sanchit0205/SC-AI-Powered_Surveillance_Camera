@@ -22,7 +22,7 @@ This project uses **OpenCV**, **Face Recognition**, and **Flask** for real-time 
 
 #### ✅ **1. Clone the repository:**
 ```bash
-git clone https://github.com/<your-username>/AI-Powered_Surveillance_Camera.git
+git clone https://github.com/Sanchit0205/SC-AI-Powered_Surveillance_Camera.git
 cd AI-Powered_Surveillance_Camera
 ```
 

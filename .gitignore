@@ -2,3 +2,8 @@
 __pycache__/
 *.log
 .env
+
+
+# Ignore the old face recognition script
+facerecog.py
+App.py

@@ -63,11 +63,9 @@ http://127.0.0.1:5000
  ┣ 📁 templates                   # HTML templates for the web interface  
  │   ┗ 📄 index.html              # Live feed web page  
  ┣ 📄 server.py                   # Flask server with face detection & alerts  
- ┣ 📄 facerecog.py                # Old script (ignored by Git)  
- ┣ 📄 App.py                      # Old script (ignored by Git)  
  ┣ 📄 requirements.txt            # Dependencies  
  ┣ 📄 README.md                   # Project documentation  
- ┣ 📄 .gitignore                  # Ignoring old scripts  
+ ┣ 📄 .gitignore                  # Ignoring  
 ```
 
 ---
@@ -99,17 +97,5 @@ numpy
 - 📊 **Admin dashboard** for better monitoring and logs management.  
 - 🎯 **Face mask detection** integration.  
 
----
-
-### 🎯 **Contributing**
-Feel free to contribute by creating pull requests or opening issues.  
-You can also **fork the project** and build your own surveillance system!
-
----
-
-### ✅ **License**
-This project is licensed under the **MIT License**.
-
----
 
 ### 🚀 **🔥 You're All Set!**
